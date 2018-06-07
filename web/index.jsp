@@ -55,7 +55,7 @@
                                 String dato = request.getParameter("d");
                                 switch (Integer.parseInt(dato)) {
                                     case 0:
-                                        out.println("<p class=\"text-info\">No ha ingresado ningun dato</p>");
+                                        out.println("<p class=\"text-info\">No ha ingresado ningún dato</p>");
                                         break;
                                     case 1:
                                         out.println("<p class=\"text-info\">No ingresó un usuario</p>");

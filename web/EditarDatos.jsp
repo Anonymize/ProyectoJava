@@ -102,16 +102,16 @@
                                                 out.println("<h3 class=\"text-danger\">No puede ingresar un usuario vacio</h3>");
                                                 break;
                                             case 1:
-                                                out.println("<h3 class=\"text-danger\">No puede dejar la contraseña vacia</h3>");
+                                                out.println("<h3 class=\"text-danger\">No puede dejar la contraseña vacía</h3>");
                                                 break;
                                             case 2:
-                                                out.println("<h3 class=\"text-danger\">No puede ingresar un nombre vacio</h3>");
+                                                out.println("<h3 class=\"text-danger\">No puede ingresar un nombre vacío</h3>");
                                                 break;
                                             case 3:
-                                                out.println("<h3 class=\"text-danger\">No puede ingresar un apellido vacio</h3>");
+                                                out.println("<h3 class=\"text-danger\">No puede ingresar un apellido vacío</h3>");
                                                 break;
                                             case 4:
-                                                out.println("<h3 class=\"text-danger\">No puede ingresar un correo vacio</h3>");
+                                                out.println("<h3 class=\"text-danger\">No puede ingresar un correo vacío</h3>");
                                                 break;
                                             case 5:
                                                 out.println("<h3 class=\"text-danger\">Formato de correo invalido</h3>");
@@ -126,7 +126,7 @@
                                                 out.println("<h3 class=\"text-danger\">Este usuario ya existe</h3>");
                                                 break;
                                             case 9:
-                                                out.println("<h3 class=\"text-danger\">Este correo ya esta registrado</h3>");
+                                                out.println("<h3 class=\"text-danger\">Este correo ya está registrado</h3>");
                                                 break;
                                             case 10:
                                                 out.println("<h3 class=\"text-danger\">Error Desconocido</h3>");

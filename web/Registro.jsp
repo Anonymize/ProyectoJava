@@ -65,7 +65,7 @@
                                                 out.println("<h3 class=\"text-danger\">Ingrese su correo</h3>");
                                                 break;
                                             case 7:
-                                                out.println("<h3 class=\"text-danger\">El correo ingresado no es valido</h3>");
+                                                out.println("<h3 class=\"text-danger\">El correo ingresado no es válido</h3>");
                                                 break;
                                             case 8:
                                                 out.println("<h3 class=\"text-danger\">Error al actualizar los datos</h3>");
